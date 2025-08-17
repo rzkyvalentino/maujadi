@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Itim';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/itim/v15/0nknC9ziJOYewAQ.ttf) format('truetype');
+}
